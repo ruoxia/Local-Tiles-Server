@@ -1,3 +1,6 @@
+获取网络上已经切片好的缓存，下载在nginx的文件夹中，作为静态文件访问，就实现了本地的切片服务
+
+
 # Local-Tiles-Server
 This project aims to provide a solution about local tiles server
 
